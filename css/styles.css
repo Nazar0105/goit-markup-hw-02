@@ -6,6 +6,8 @@
   --logo-color-: #4d5ae5;
   --body-btn-color: #4d5ae5;
   --background-color-body-btn: #f4f4fd;
+  --row-title-color: #2e2f42;
+  --row-text-color:#434455 ;
 }
 
 body {
@@ -318,4 +320,20 @@ body {
 
 .body-btn:focus {
   background-color: #404bbf;
+}
+
+.row-one-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: var(--row-title-color);
+}
+
+.row-one-text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+color: var(--row-text-color);
+
 }
