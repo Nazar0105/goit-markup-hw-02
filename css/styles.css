@@ -4,6 +4,8 @@
   --row-title-color: #2e2f42;
   --row-text-color: #434455;
   --logo-color-: #4d5ae5;
+  --body-btn-color: #4d5ae5;
+  --background-color-body-btn: #f4f4fd;
 }
 
 body {
@@ -291,4 +293,29 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--row-text-color);
+}
+
+.body-btn {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: var(--body-btn-color);
+  background-color: var(--background-color-body-btn);
+  cursor: pointer;
+}
+
+.body-btn:hover {
+  color: #ffffff;
+}
+.body-btn :focus {
+  color: #ffffff;
+}
+.body-btn:hover {
+  background-color: #404bbf;
+}
+
+.body-btn:hover {
+  background-color: #404bbf;
 }
