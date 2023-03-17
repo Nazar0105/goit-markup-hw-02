@@ -57,7 +57,7 @@ body {
 .head-ink:hover {
   color: #404bbf;
 }
-.head-ink :focus {
+.head-ink:focus {
   color: #404bbf;
 }
 
