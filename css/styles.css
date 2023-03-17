@@ -16,11 +16,11 @@ body {
 }
 
 .link {
-  text-decoration:none;
+  text-decoration: none;
 }
 
 .list {
- list-style:none; 
+  list-style: none;
 }
 
 .head-logo {
@@ -34,11 +34,10 @@ body {
 }
 
 .studi {
-  color:#2e2f42;
+  color: #2e2f42;
 }
 .studi-down {
-
-  color: #F4F4FD;
+  color: #f4f4fd;
 }
 
 .head-ink {
@@ -48,6 +47,18 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+
+.head-ink:hover {
+  color: #404bbf;
+}
+.head-ink :focus {
+  color: #404bbf;
+}
+
+.contacts {
+  font-style: normal;
+}
+
 .head-email {
   font-weight: 400;
   font-size: 16px;
