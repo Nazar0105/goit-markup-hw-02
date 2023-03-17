@@ -7,7 +7,7 @@
   --body-btn-color: #4d5ae5;
   --background-color-body-btn: #f4f4fd;
   --row-title-color: #2e2f42;
-  --row-text-color:#434455 ;
+  --row-text-color: #434455;
 }
 
 body {
@@ -334,6 +334,5 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-color: var(--row-text-color);
-
+  color: var(--row-text-color);
 }
