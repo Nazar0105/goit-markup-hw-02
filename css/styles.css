@@ -316,6 +316,6 @@ body {
   background-color: #404bbf;
 }
 
-.body-btn:hover {
+.body-btn:focus {
   background-color: #404bbf;
 }
