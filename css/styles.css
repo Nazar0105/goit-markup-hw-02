@@ -309,7 +309,7 @@ body {
 .body-btn:hover {
   color: #ffffff;
 }
-.body-btn :focus {
+.body-btn:focus {
   color: #ffffff;
 }
 .body-btn:hover {
