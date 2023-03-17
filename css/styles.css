@@ -6,8 +6,9 @@
 }
 
 body {
-  font-family: "Roboto" sans-serif;
-  color: #2e2f42;
+  font-family:"Roboto",sans-serif;
+  color: #434455;
+  background-color:#FFFFFF;
 }
 .head {
   background: #ffffff;
