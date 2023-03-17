@@ -52,7 +52,6 @@ body {
   letter-spacing: 0.02em;
   color: #404bbf;
   color: var(--head-ink-color);
-
 }
 
 .head-ink:hover {
