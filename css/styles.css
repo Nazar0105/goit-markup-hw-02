@@ -3,16 +3,44 @@
   --about-us-text-color: #434455;
   --row-title-color: #2e2f42;
   --row-text-color: #434455;
+  --logo-color-: #4d5ae5;
 }
 
 body {
-  font-family:"Roboto",sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #434455;
-  background-color:#FFFFFF;
+  background-color: #ffffff;
 }
 .head {
   background: #ffffff;
 }
+
+.link {
+  text-decoration:none;
+}
+
+.list {
+ list-style:none; 
+}
+
+.head-logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--logo-color-);
+}
+
+.studi {
+  color:#2e2f42;
+}
+.studi-down {
+
+  color: #F4F4FD;
+}
+
 .head-ink {
   font-weight: 500;
   font-size: 16px;
@@ -279,5 +307,5 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color:var(--row-text-color);
+  color: var(--row-text-color);
 }
