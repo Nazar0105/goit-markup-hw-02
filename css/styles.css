@@ -8,6 +8,7 @@
   --background-color-body-btn: #f4f4fd;
   --row-title-color: #2e2f42;
   --row-text-color: #434455;
+  --head-ink-color:#2e2f42;
 }
 
 body {
@@ -50,6 +51,8 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #404bbf;
+  color: var(--head-ink-color);
+
 }
 
 .head-ink:hover {
