@@ -133,7 +133,6 @@ body {
   color: var(--about-us-text-color);
 }
 
-
 .work-title {
   font-weight: 700;
   font-size: 36px;
@@ -145,7 +144,7 @@ body {
 }
 
 .our-team {
-  background-color: #F4F4FD
+  background-color: #f4f4fd;
 }
 .our-team-title {
   font-weight: 700;
@@ -157,10 +156,10 @@ body {
   color: #2e2f42;
 }
 .worker {
- background-color: #FFFFFF
+  background-color: #ffffff;
 }
 
-.mark-title {
+.worker-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -168,7 +167,7 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.product-text {
+.worker-text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -176,7 +175,7 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.tom-title {
+.worker-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -184,7 +183,7 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.front-text {
+.worker-text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -192,7 +191,7 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.camila-title {
+.worker-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -200,7 +199,7 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.mark-text {
+.worker-text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -208,7 +207,7 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.daniel-title {
+.worker-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -216,7 +215,7 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.ui-text {
+.worker-text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
